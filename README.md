@@ -1,1 +1,2 @@
 # QueryMind
+free update
