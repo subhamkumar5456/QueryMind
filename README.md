@@ -1,2 +1,2 @@
-# QueryMind
-free update
+# QueryMind#############
+#hiii
