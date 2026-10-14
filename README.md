@@ -1,2 +1,2 @@
-# QueryMind
+# QueryMin
 #hiii
